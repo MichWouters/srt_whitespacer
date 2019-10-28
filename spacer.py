@@ -1,8 +1,8 @@
 import re
 import codecs
 
-source = 'C:\games\Backup.srt'
-destination = 'C:\games\\result.txt'
+source = 'C:\SomeFolder\Backup.srt'
+destination = 'C:\SomeFolder\\result.txt'
 cleanedtext = []
 
 # Read source file
