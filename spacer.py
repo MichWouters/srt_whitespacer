@@ -2,7 +2,7 @@ import re
 import codecs
 
 source = 'C:\SomeFolder\Backup.srt'
-destination = 'C:\SomeFolder\\result.txt'
+destination = 'C:\SomeFolder\result.txt'
 cleanedtext = []
 
 # Read source file
